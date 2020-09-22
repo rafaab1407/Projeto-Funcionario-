@@ -8,6 +8,7 @@ public class testaGerente {
         System.out.println(g1.aumentaSalario());
         ControleBonificacao cb = new ControleBonificacao();
         cb.registra(g1);    
+        System.out.print("teste git");
 
         
 
